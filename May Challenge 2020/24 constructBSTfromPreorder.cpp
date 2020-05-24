@@ -23,8 +23,7 @@ TreeNode* insert (TreeNode *root, int val){
     else if (root->val < val)
         root->right = insert(root->right, val);
     
-    return root;   
-    
+    return root;      
 }
 
 class Solution {
