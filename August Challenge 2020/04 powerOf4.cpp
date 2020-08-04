@@ -1,5 +1,6 @@
 /*
 Credits: _aaRPee_
+Reference: https://leetcode.com/problems/power-of-four/discuss/772394/C%2B%2B-oror-One-liner-oror-0ms-oror-Fully-explained-oror-Bit-manipulation-oror-Easy-to-understand
 
 For the number to be divisible by 4,
 
