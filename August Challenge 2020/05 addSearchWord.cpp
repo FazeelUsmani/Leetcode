@@ -1,3 +1,6 @@
+// Reference: https://leetcode.com/problems/add-and-search-word-data-structure-design/discuss/269650/C%2B%2B-Trie-solution-benchmarked-using-DFS-and-BFS
+// Contains both BFS & DFS solutions
+
 class WordDictionary {
 public:
     struct Node {
