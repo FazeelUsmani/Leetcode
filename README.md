@@ -1,2 +1,2 @@
 # Leetcode
-This repository includes all the solutions of Leetcode challenges
+This repository includes all the solutions of Leetcode monthly challenges
