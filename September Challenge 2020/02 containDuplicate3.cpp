@@ -29,9 +29,10 @@ bool containsNearbyAlmostDuplicate(vector<int>& nums, int k, int t) {
                 if(nums[i-k] < 0) --key_to_remove;
                 
                 buckets.erase(key_to_remove);
-            }
+            }            
         }
     }
+    
     return false;  
 }     
 
