@@ -8,3 +8,4 @@ class Solution:
                 memo[N] = [2*x-1 for x in odds] + [2*x for x in evens]
             return memo[N]
         return f(N)
+        
